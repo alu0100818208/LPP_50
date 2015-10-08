@@ -1,2 +1,6 @@
 Trabajo en equipo con git
-En la compilación se traduce el programa en lenguaje de alto nivel a lenguaje de la máquina, mientras que en la interpretación la traducción se realiza a medida que vaya siendo necesaria.
+#1) En la compilación se traduce el programa en lenguaje de alto nivel a lenguaje de la máquina, mientras que en la interpretación la traducción se realiza a medida que vaya siendo necesaria.
+#2) Permisos helloWorld.sh: -rwxr--r--. Si se puede ejecutar ya que tenemos permisos de ejecución.
+#3) Permisos helloWorld.sh: -rwxr--r--. Si se puede ejecutar ya que tenemos permisos de$
+#4) La principal diferencia es que el .sh tiene tres lineas, mientras que el .rb tan solo tiene una.
+#5) El significado de las primera linea es declarar el uso de la shell.
